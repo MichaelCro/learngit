@@ -6,3 +6,5 @@ test 工作区和缓存区2！
 分支相关概念！
 branch master!
 branch dev!
+1
+2
