@@ -6,4 +6,8 @@ test 工作区和缓存区2！
 分支相关概念！！！
 branch master!!!
 branch f1!!!
+<<<<<<< Updated upstream
 正在开发2！
+=======
+正在开发1！
+>>>>>>> Stashed changes
