@@ -7,7 +7,11 @@ test 工作区和缓存区2！
 branch master!!!
 branch f1!!!
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 正在开发2！
+=======
+正在开发1！
+>>>>>>> Stashed changes
 =======
 正在开发1！
 >>>>>>> Stashed changes
